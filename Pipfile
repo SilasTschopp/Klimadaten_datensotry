@@ -105,6 +105,8 @@ widgetsnbextension = "==4.0.10"
 requests-cache = "*"
 openmeteo-requests = "*"
 retry-requests = "*"
+pickleshare = "*"
+matplotlib = "*"
 
 [dev-packages]
 
